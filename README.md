@@ -14,7 +14,7 @@ the `/docs` and `/spec` folders.
 
 We are constantly updating the documentation, but if you find any issues related
 to the documentation, such as inaccurate content or typos, please 
-create a [new an issue](https://github.com/cometbft/cometbft/issues/new?assignees=&labels=bug%2C+needs-triage&template=bug-report.md) 
+create a [new issue](https://github.com/cometbft/cometbft/issues/new?assignees=&labels=bug%2C+needs-triage&template=bug-report.md) 
 in the `cometbft` repository. 
 
 > **NOTE**: For any issue that might be related to the UI/UX of the documentation website, please [open an issue](https://github.com/cometbft/cometbft-docs/issues/new) in this repository
@@ -93,7 +93,7 @@ to the `cometbft` repo.
 
 ## Running the site locally
 
-If you want to run the site locally you can run the follow command:
+If you want to run the site locally you can run the following command:
 
 ```
 make serve
